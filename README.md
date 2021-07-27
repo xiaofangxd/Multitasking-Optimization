@@ -164,7 +164,7 @@
 | ------------------------------------------------------------ | ---------- | --------- | ------------- | ------------------------------------------------------------ | ------- |
 | 1. Evolutionary Multitasking for Single-objective Continuous Optimization Benchmark Problems Performance Metric and Baseline Results | arXiv      | 2017      | _Da et al._   | [[paper](https://arxiv.org/abs/1706.03470)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 2. Evolutionary Multitasking for Multiobjective Continuous Optimization Benchmark Problems Performance Metrics and Baseline Results | arXiv      | 2017      | _Yuan et al._ | [[paper](https://arxiv.org/abs/1706.02766)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
-| 3. Evolutionary Optimization for Complex Problems                        | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
+| 3. Evolutionary Multitasking Optimization for Complex Problems                        | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 4. Evolutionary Many-tasking Optimization                    | CEC, GECCO | 2017~2021 | _Feng et al._ | [[code](http://www.bdsc.site/websites/MTO_competition_2021/MTO_Competition_CEC_2021.html)] |         |
 | 5. Evolutionary Transfer Optimization                        | CEC        | 2021      | _Tan et al._  | [[code](https://www.scholat.com/vpost.html?pid=160180)]      |         |
 
