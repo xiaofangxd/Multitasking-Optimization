@@ -1,4 +1,4 @@
-# A collection of main papers on multitasking optimization
+# A Collection of Main Papers on Multitasking Optimization
 
 - [Multitasking Optimization](#Multitasking-Optimization)
   - [Survey](#survey)
