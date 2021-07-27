@@ -15,16 +15,16 @@ A collection of main papers on multitasking optimization.
 - [Multitasking Optimization](#Multitasking-Optimization)
   - [Survey](#survey)
   - [Multitasking Single-objective Optimization](#Multitasking-Single-objective-Optimization)
-  - [Multitasking Multi-objective Optimization](#Multitasking Multi-objective Optimization)
-  - [Multitasking Combination Optimization](#Multitasking Combination Optimization)
-  - [Multitasking High-dimensional Optimization](#Multitasking High-dimensional Optimization)
-  - [Multitasking Data-Driven Evolutionary Optimization](#Multitasking Data-Driven Evolutionary Optimization)
-  - [Multitasking Genetic Programming and Swarm Intelligence](#Multitasking Genetic Programming and Swarm Intelligence)
-  - [Multitasking Optimization in Complex Networks](#Multitasking Optimization in Complex Networks)
-  - [Multitasking Optimization in Machine Learning](#Multitasking Optimization in Machine Learning)
-  - [Transfer Optimization](#Transfer Optimization)
-  - [Theoretical Analysis](#Theoretical Analysis)
-  - [Other Applications](#Other Applications)
+  - [Multitasking Multi-objective Optimization](#Multitasking-Multi-objective-Optimization)
+  - [Multitasking Combination Optimization](#Multitasking-Combination-Optimization)
+  - [Multitasking High-dimensional Optimization](#Multitasking-High-dimensional-Optimization)
+  - [Multitasking Data-Driven Evolutionary Optimization](#Multitasking-Data-Driven-Evolutionary-Optimization)
+  - [Multitasking Genetic Programming and Swarm Intelligence](#Multitasking-Genetic-Programming-and-Swarm-Intelligence)
+  - [Multitasking Optimization in Complex Networks](#Multitasking-Optimization-in-Complex-Networks)
+  - [Multitasking Optimization in Machine Learning](#Multitasking-Optimization-in-Machine-Learning)
+  - [Transfer Optimization](#Transfer-Optimization)
+  - [Theoretical Analysis](#Theoretical-Analysis)
+  - [Other Applications](#Other-Applications)
   - [Datasets](#datasets)
   - [Tools](#tools)
 
@@ -39,7 +39,6 @@ A collection of main papers on multitasking optimization.
 | 3. Multi-Task Optimization and Multi-Task Evolutionary Computation in the Past Five Years A Brief Review | Mathematics           | 2021 | _Xu et al._    | [[paper](https://www.mdpi.com/2227-7390/9/8/864)]            |         |
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
 
-----------
 
 # Multitasking Single-objective Optimization
 
