@@ -39,7 +39,7 @@ A collection of main papers on multitasking optimization.
 | 3. Multi-Task Optimization and Multi-Task Evolutionary Computation in the Past Five Years A Brief Review | Mathematics           | 2021 | _Xu et al._    | [[paper](https://www.mdpi.com/2227-7390/9/8/864)]            |         |
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
 
-
+----------
 
 # Multitasking Single-objective Optimization
 
