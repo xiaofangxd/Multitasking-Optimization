@@ -117,7 +117,7 @@
 | ------------------------------------------------------------ | ----- | ---- | ----------------- | ------------------------------------------------------------ | ------- |
 | 1. Multi-task Bayesian Optimization                          | NIPS  | 2012 | _Swersky et al._  | [[paper](https://papers.nips.cc/paper/2013/file/f33ba15effa5c10e873bf3842afb46a6-Paper.pdf)] |         |
 | 2. Co-evolutionary Multi-Task Learning for Dynamic Time Series Prediction | ASOC  | 2018 | _Chandra et al._  | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494618303168)] [[code](https://github.com/rohitash-chandra/CMTL_dynamictimeseries)] |         |
-| 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code. tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
+| 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code.tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
 |                                                              |       |      |                   |                                                              |         |
 
