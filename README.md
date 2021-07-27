@@ -12,9 +12,9 @@ description: This is the summary of multitasking optimizaion.
 
 A collection of main papers on multitasking optimization.
 
-- [Multitasking Optimization](#Multitasking Optimization)
+- [Multitasking Optimization](#Multitasking-Optimization)
   - [Survey](#survey)
-  - [Multitasking Single-objective Optimization](#Multitasking Single-objective Optimization)
+  - [Multitasking Single-objective Optimization](#Multitasking-Single-objective-Optimization)
   - [Multitasking Multi-objective Optimization](#Multitasking Multi-objective Optimization)
   - [Multitasking Combination Optimization](#Multitasking Combination Optimization)
   - [Multitasking High-dimensional Optimization](#Multitasking High-dimensional Optimization)
