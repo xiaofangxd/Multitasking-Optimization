@@ -1,16 +1,4 @@
----
-title: Multitasking Optimization
-commentable: flase
-Edit: 2021-07-27
-mathjax: true
-mermaid: true
-tags: summary
-categories: multitasking-optimization
-description: This is the summary of multitasking optimizaion.
-
----
-
-A collection of main papers on multitasking optimization.
+# A collection of main papers on multitasking optimization
 
 - [Multitasking Optimization](#Multitasking-Optimization)
   - [Survey](#survey)
