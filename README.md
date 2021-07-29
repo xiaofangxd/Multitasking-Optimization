@@ -120,6 +120,8 @@
 | 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code.tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
 | 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv  | 2020 |   _Martinez et al._     |    [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)]                    |         |
+| 6.Evolutionary Multitasking for Feature Selection in High-dimensional Classification via Particle Swarm Optimisation | TEVC  | 2021 |   _Chen et al._     |    [[paper](https://ieeexplore.ieee.org/document/9496593)]                  |         |
+| 7.Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
 
 
 
