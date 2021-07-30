@@ -154,7 +154,7 @@
 | ------------------------------------------------------------ | ----------------------------- | ---- | -------------- | ------------------------------------------------------------ | ------- |
 | 1. Evolutionary Multitasking In Bi-Level Optimization        | Complex & Intelligent Systems | 2015 | _Gupta et al._ | [[paper](https://link.springer.com/article/10.1007/s40747-016-0011-y)] |         |
 | 2. An Evolutionary Multitasking Algorithm for Cloud Computing Service Composition | World Congress on Services    | 2018 | _Bao st al._   | [[paper](https://link.springer.com/chapter/10.1007/978-3-319-94472-2_10)] |         |
-| 3. Multi-Tasking Genetic Algorithm (MTGA)                    | TFS                           | 2019 | _Wu et al._    | [[paper](https://ieeexplore.ieee.org/abstract/document/8967000)] |         |
+| 3. Multi-Tasking Genetic Algorithm (MTGA)                    | TFS                           | 2019 | _Wu et al._    | [[paper](https://ieeexplore.ieee.org/abstract/document/8967000)] |    [[blog](http://blog.sciencenet.cn/blog-3418535-1197956.html)]     |
 | 4. A Multitasking Electric Power Dispatch Approach With Multi-Objective Multifactorial Optimization Algorithm | Access                        | 2020 | _Liu et al._   | [[paper](https://ieeexplore.ieee.org/document/9173778)]      |         |
 | 5. Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search | TCYB                          | 2020 | _Liang et al._ | [[paper](https://ieeexplore.ieee.org/document/9210737)] [[code](http://www.bdsc.site/websites/ETO/ETO.html)] |         |
 
