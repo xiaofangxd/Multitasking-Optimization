@@ -41,7 +41,8 @@
 | 7. Evolutionary Manytasking Optimization Based on Symbiosis in Biocoenosis | AAAI  | 2019 | _Liaw st al._  | [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4338)] | [[blog](https://blog.csdn.net/qq_40434430/article/details/117172668?spm=1001.2014.3001.5501)] |
 | 8. Regularized Evolutionary Multi-Task Optimization Learning to Inter-Task Transfer in Aligned Subspace | TEVC  | 2020 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9195010)]      |                                                              |
 | 9. Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection | TEVC  | 2021 | _Wang st al._  | [[paper](https://ieeexplore.ieee.org/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)] |                                                              |
-
+| 10. Evolutionary Multi-task Optimization with Adaptive Knowledge Transfer | TEVC  | 2021 | _Xu st al._  | [[paper](https://ieeexplore.ieee.org/document/9521551)]  |                                                              |
+| 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |     
 
 
 # Multitasking Multi-objective Optimization
