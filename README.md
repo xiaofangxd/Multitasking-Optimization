@@ -42,7 +42,8 @@
 | 8. Regularized Evolutionary Multi-Task Optimization Learning to Inter-Task Transfer in Aligned Subspace | TEVC  | 2020 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9195010)]      |                                                              |
 | 9. Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection | TEVC  | 2021 | _Wang st al._  | [[paper](https://ieeexplore.ieee.org/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)] |                                                              |
 | 10. Evolutionary Multi-task Optimization with Adaptive Knowledge Transfer | TEVC  | 2021 | _Xu st al._  | [[paper](https://ieeexplore.ieee.org/document/9521551)]  |                                                              |
-| 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |     
+| 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |  
+| 112. Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation | TEVC  | 2021 | _Rios st al._  | [[paper](https://ieeexplore.ieee.org/document/9446541)]  | 
 
 
 # Multitasking Multi-objective Optimization
@@ -123,6 +124,7 @@
 | 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv  | 2020 |   _Martinez et al._     |    [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)]                    |         |
 | 6.Evolutionary Multitasking for Feature Selection in High-dimensional Classification via Particle Swarm Optimisation | TEVC  | 2021 |   _Chen et al._     |    [[paper](https://ieeexplore.ieee.org/document/9496593)]                  |         |
 | 7.Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
+| 8.Learning and Sharing: A Multitask Genetic Programming Approach to Image Feature Learning | TEVC  | 2021 |   _Bi et al._     |    [[paper](https://ieeexplore.ieee.org/document/9484082)]                  |         |
 
 
 
