@@ -43,7 +43,7 @@
 | 9. Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection | TEVC  | 2021 | _Wang st al._  | [[paper](https://ieeexplore.ieee.org/document/9385398)] [[code](https://github.com/xiaofangxd/MTEA-AD)] |                                                              |
 | 10. Evolutionary Multi-task Optimization with Adaptive Knowledge Transfer | TEVC  | 2021 | _Xu st al._  | [[paper](https://ieeexplore.ieee.org/document/9521551)]  |                                                              |
 | 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |  
-| 112. Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation | TEVC  | 2021 | _Rios st al._  | [[paper](https://ieeexplore.ieee.org/document/9446541)]  | 
+| 12. Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation | TEVC  | 2021 | _Rios st al._  | [[paper](https://ieeexplore.ieee.org/document/9446541)]  | 
 
 
 # Multitasking Multi-objective Optimization
