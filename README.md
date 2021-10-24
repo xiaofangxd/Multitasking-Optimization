@@ -26,6 +26,7 @@
 | 2. Evolutionary Multitask Optimization a Methodological Overview Challenges and Future Research Directions | arXiv                 | 2021 | _Osaba et al._ | [[paper](https://arxiv.org/pdf/2102.02558.pdf)]              |         |
 | 3. Multi-Task Optimization and Multi-Task Evolutionary Computation in the Past Five Years A Brief Review | Mathematics           | 2021 | _Xu et al._    | [[paper](https://www.mdpi.com/2227-7390/9/8/864)]            |         |
 | 4. Evolutionary Transfer Optimization A New Frontier in Evolutionary Computation Research | CIM                   | 2021 | _Tan et al._   | [[paper](https://ieeexplore.ieee.org/document/9321762)]      |         |
+| 5. Half a Dozen Real-World Applications of Evolutionary Multitasking and More | arxiv                   | 2021 | _Gupta et al._   | [[paper](https://arxiv.org/abs/2109.13101)]      |         |
 
 
 # Multitasking Single-objective Optimization
@@ -45,6 +46,7 @@
 | 11. Evolutionary Many-task Optimization Based on Multi-source Knowledge Transfer | TEVC  | 2021 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)]  |  
 | 12. Multi-Task Shape Optimization Using a 3D Point Cloud Autoencoder as Unified Representation | TEVC  | 2021 | _Rios st al._  | [[paper](https://ieeexplore.ieee.org/document/9446541)]  | 
 | 13. Towards Large-Scale Evolutionary Multi-Tasking: A GPU-Based Paradigm | TEVC  | 2021 | _Huang st al._  | [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9530458)]  | 
+| 14. Improving Evolutionary Multitasking Optimization by Leveraging Inter-Task Gene Similarity and Mirror Transformation | CIM  | 2021 | _Ma st al._  | [[paper](https://ieeexplore.ieee.org/document/9570735)]  | 
 
 
 # Multitasking Multi-objective Optimization
@@ -58,6 +60,7 @@
 | 5. Evolutionary Multitasking for Multiobjective Optimization With Subspace Alignmentand Adaptive Differential Evolution | TCYB  | 2020 | _Liang st al._ | [[paper](https://ieeexplore.ieee.org/document/9123962)] [[code](https://github.com/CIA-SZU/DH)]      |         |
 | 6. Cognizant Multitasking in Multiobjective Multifactorial Evolution MO-MFEA-II | TCYB  | 2020 | _Bali et al._  | [[paper](https://ieeexplore.ieee.org/document/9076689)] [[code](http://www.bdsc.site/websites/MTO/index.html)] |         |
 | 7. Multiobjective Multitasking Optimization Based on Decomposition with Dual Neighborhoods | arXiv | 2021 | _Wang et al._  | [[paper](https://arxiv.org/abs/2101.07548)]                  |         |
+| 8. Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization | CIM | 2021 | _Wei et al._  | [[paper](https://ieeexplore.ieee.org/document/9570733)]                  |         |
 
 
 
@@ -78,7 +81,7 @@
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                               | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------- | ------- |
 | 1. Large Scale optimization via Evolutionary Multitasking assisted Random Embedding | CEC   | 2020 | _Feng et al._ | [[paper](https://ieeexplore.ieee.org/document/9185660)] |         |
-| 2. Multi-Space Evolutionary Search for Large-Scale Optimization | arXiv | 2021 | _Feng et al._ | [[paper](https://arxiv.org/abs/2102.11693)]             |         |
+| 2. A Multi-Variation Multifactorial Evolutionary Algorithm for Large-Scale Multi-Objective Optimization | TEVC | 2021 | _Feng et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9569756)]             |         |
 
 
 
@@ -99,6 +102,7 @@
 | 1. Learning Ensemble of Decision Trees through Multifactorial Genetic Programming | CEC   | 2016 | _Wen et al._   | [[paper](https://ieeexplore.ieee.org/abstract/document/7748363)] |         |
 | 2. Multifactorial Genetic Programming for Symbolic Regression Problems | TSMC  | 2018 | _Zhong et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/8419217)] |         |
 | 3. Self-Adjusting Multi-Task Particle Swarm Optimization     | TEVC  | 2021 | _Han et al._   | [[paper](https://ieeexplore.ieee.org/document/9491081)]      |         |
+| 4. Self-adaptive Multi-task Particle Swarm Optimization     | arxiv  | 2021 | _Zheng et al._   | [[paper](https://arxiv.org/pdf/2110.04473.pdf)]      |         |
 
 
 
@@ -139,6 +143,7 @@
 | 4. Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity | TASE  | 2020 | _Min et al._     | [[paper](https://ieeexplore.ieee.org/document/9180071)]      |         |
 | 5. Scalable Transfer Evolutionary Optimization Coping with Big Task Instances | arXiv | 2020 | _Shakeri et al._ | [[paper](https://arxiv.org/abs/2012.01830)] [[code](https://github.com/erfanMhi/Transfer-Optimization)] |         |
 | 6. Transfer Stacking from Low-to High-Fidelity A Surrogate-Assisted Bi-Fidelity Evolutionary Algorithm | ASOC  | 2020 | _Wang et al._    | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494620302167)] [[code](https://sites.google.com/site/handingwanghomepage/publication)] |         |
+| 7. Transfer Learning Based Co-surrogate Assisted Evolutionary Bi-objective Optimization for Objectives with Non-uniform Evaluation Times | arxiv  | 2021 | _Wang et al._    | [[paper](https://arxiv.org/abs/2108.13339)]  |         |
 
 
 
