@@ -110,7 +110,7 @@
 
 | Paper Title                                                  | Venue | Year | Authors       | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | ------------- | ------------------------------------------------------------ | ------- |
-| 1. Evolutionary Multitasking Sparse Reconstruction Framework and Case Study | TEVC  | 2018 | _Hao et al._  | [[paper](https://ieeexplore.ieee.org/document/8540026)]      |         |
+| 1. Evolutionary Multitasking Sparse Reconstruction Framework and Case Study | TEVC  | 2018 | _Li et al._  | [[paper](https://ieeexplore.ieee.org/document/8540026)]      |         |
 | 2. MUMI Multitask Module Identification for Biological Networks | TEVC  | 2020 | _Chen et al._ | [[paper](https://ieeexplore.ieee.org/document/8894074)] [[code]( https://github.com/WeiqiChen/Mumimultitask-module-identification)] |         |
 | 3. Evolutionary Multitasking Network Reconstruction from Time Series with Online Parameter Estimation | KBS   | 2021 | _Shen et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0950705121002823)] |         |
 | 4. Learning Large-Scale Fuzzy Cognitive Maps Using an Evolutionary Many-Task Algorithm | ASOC  | 2021 | _Wang et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494621003641)] |         |
