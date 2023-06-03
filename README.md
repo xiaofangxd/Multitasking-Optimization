@@ -160,8 +160,7 @@
 | 5. Evolutionary Multitasking Multilayer Network Reconstruction | TCYB  | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)] |         |
 | 6. Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | TEVC  | 2022 | _Lyu et al._ | [[paper](https://ieeexplore.ieee.org/document/9802693)] |         |
 | 7. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks | CIM  | 2023 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/10026148)] |         |
-| 8. Enhancing the Robustness of Networks Against Multiple Damage Models Using a Multifactorial Evolutionary Algorithm
- | TSMC  | 2023 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/10049190)] |         |
+| 8. Enhancing the Robustness of Networks Against Multiple Damage Models Using a Multifactorial Evolutionary Algorithm | TSMC  | 2023 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/10049190)] |         |
 
 
 
@@ -178,12 +177,9 @@
 | 7. Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
 | 8. Learning and Sharing: A Multitask Genetic Programming Approach to Image Feature Learning | TEVC  | 2021 |   _Bi et al._     |    [[paper](https://ieeexplore.ieee.org/document/9484082)]                  |         |
 | 9. An Evolutionary Multitasking Method for Multiclass Classification [Research Frontier] | CIM  | 2022 |   _Cheng et al._     |    [[paper](https://ieeexplore.ieee.org/document/9942680)]                  |         |
-| 10. Evolutionary Multitasking AUC Optimization [Research Frontier]
- | CIM  | 2022 |   _Wang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9756594)]                  |         |
-| 11. Adaptive Multifactorial Evolutionary Optimization for Multitask Reinforcement Learning
- | TEVC  | 2022 |   _Martinez et al._     |    [[paper](https://ieeexplore.ieee.org/document/9439811)]                  |         |
- | 12. ESSR: Evolving Sparse Sharing Representation for Multi-task Learning
- | TEVC  | 2023 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/10114675)]                  |         |
+| 10. Evolutionary Multitasking AUC Optimization [Research Frontier] | CIM  | 2022 |   _Wang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9756594)]                  |         |
+| 11. Adaptive Multifactorial Evolutionary Optimization for Multitask Reinforcement Learning | TEVC  | 2022 |   _Martinez et al._     |    [[paper](https://ieeexplore.ieee.org/document/9439811)]                  |         |
+ | 12. ESSR: Evolving Sparse Sharing Representation for Multi-task Learning | TEVC  | 2023 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/10114675)]                  |         |
 
 
 # Transfer Optimization
