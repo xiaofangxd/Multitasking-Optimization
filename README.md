@@ -77,10 +77,8 @@
 | 14. Multiobjective Multitasking Optimization With Subspace Distribution Alignment and Decision Variable Transfer | TETCI | 2022 | _Gao et al._  | [[paper](https://ieeexplore.ieee.org/document/9582815)]                  |         |
 | 15. Adaptive Auxiliary Task Selection for Multitasking-Assisted Constrained Multi-Objective Optimization [Feature] | CIM | 2021 | _Ming et al._  | [[paper](https://ieeexplore.ieee.org/document/10102380)]                  |         |
 | 16. Multiobjective Evolutionary Multitasking With Two-Stage Adaptive Knowledge Transfer Based on Population Distribution | TSMC | 2022 | _Liang et al._  | [[paper](https://ieeexplore.ieee.org/document/9495833)]                  |         |
-| 17. Learning Task Relationships in Evolutionary Multitasking for Multiobjective Continuous Optimization| 
-TCYB | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9262898)]                  |         |
- | 18. A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm |
- TETCI | 2023 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/10032050)]                  |         |
+| 17. Learning Task Relationships in Evolutionary Multitasking for Multiobjective Continuous Optimization | TCYB | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9262898)]                  |         |
+| 18. A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm | TETCI | 2023 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/10032050)]                  |         |
 
 
 # Multitasking Combination Optimization
