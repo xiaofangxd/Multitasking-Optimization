@@ -77,10 +77,10 @@
 | 14. Multiobjective Multitasking Optimization With Subspace Distribution Alignment and Decision Variable Transfer | TETCI | 2022 | _Gao et al._  | [[paper](https://ieeexplore.ieee.org/document/9582815)]                  |         |
 | 15. Adaptive Auxiliary Task Selection for Multitasking-Assisted Constrained Multi-Objective Optimization [Feature] | CIM | 2021 | _Ming et al._  | [[paper](https://ieeexplore.ieee.org/document/10102380)]                  |         |
 | 16. Multiobjective Evolutionary Multitasking With Two-Stage Adaptive Knowledge Transfer Based on Population Distribution | TSMC | 2022 | _Liang et al._  | [[paper](https://ieeexplore.ieee.org/document/9495833)]                  |         |
-| 17. Learning Task Relationships in Evolutionary Multitasking for Multiobjective Continuous Optimization
- | TCYB | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9262898)]                  |         |
- | 18. A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm
- | TETCI | 2023 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/10032050)]                  |         |
+| 17. Learning Task Relationships in Evolutionary Multitasking for Multiobjective Continuous Optimization| 
+TCYB | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9262898)]                  |         |
+ | 18. A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm |
+ TETCI | 2023 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/10032050)]                  |         |
 
 
 # Multitasking Combination Optimization
@@ -159,12 +159,12 @@
 | 2. Co-evolutionary Multi-Task Learning for Dynamic Time Series Prediction | ASOC  | 2018 | _Chandra et al._  | [[paper](https://www.sciencedirect.com/science/article/pii/S1568494618303168)] [[code](https://github.com/rohitash-chandra/CMTL_dynamictimeseries)] |         |
 | 3. Adaptive Multi-factorial Evolutionary Optimization for Multi-task Reinforcement Learning | TEVC  | 2021 | _Martinez et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9439811)] [[code](https://git.code.tecnalia.com/aritz.martinez/a-mfea-rl)] |         |
 | 4. Can Transfer Neuroevolution Tractably Solve Your Differential Equations | arXiv | 2021 | _Huang et al._    | [[paper](https://arxiv.org/abs/2101.01998)]                  |         |
-| 5.Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv  | 2020 |   _Martinez et al._     |    [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)]                    |         |
-| 6.Evolutionary Multitasking for Feature Selection in High-dimensional Classification via Particle Swarm Optimisation | TEVC  | 2021 |   _Chen et al._     |    [[paper](https://ieeexplore.ieee.org/document/9496593)]                  |         |
-| 7.Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
-| 8.Learning and Sharing: A Multitask Genetic Programming Approach to Image Feature Learning | TEVC  | 2021 |   _Bi et al._     |    [[paper](https://ieeexplore.ieee.org/document/9484082)]                  |         |
-| 9.An Evolutionary Multitasking Method for Multiclass Classification [Research Frontier] | CIM  | 2022 |   _Cheng et al._     |    [[paper](https://ieeexplore.ieee.org/document/9942680)]                  |         |
-| 10.Evolutionary Multitasking AUC Optimization [Research Frontier]
+| 5. Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial Optimization | arXiv  | 2020 |   _Martinez et al._     |    [[paper](https://arxiv.org/abs/2002.12133)] [[code](https://git.code.tecnalia.com/aritz.martinez/dql-mfea)]                    |         |
+| 6. Evolutionary Multitasking for Feature Selection in High-dimensional Classification via Particle Swarm Optimisation | TEVC  | 2021 |   _Chen et al._     |    [[paper](https://ieeexplore.ieee.org/document/9496593)]                  |         |
+| 7. Evolutionary Machine Learning with Minions: A Case Study in Feature Selection | TEVC  | 2021 |   _Zhang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9493747)]                  |         |
+| 8. Learning and Sharing: A Multitask Genetic Programming Approach to Image Feature Learning | TEVC  | 2021 |   _Bi et al._     |    [[paper](https://ieeexplore.ieee.org/document/9484082)]                  |         |
+| 9. An Evolutionary Multitasking Method for Multiclass Classification [Research Frontier] | CIM  | 2022 |   _Cheng et al._     |    [[paper](https://ieeexplore.ieee.org/document/9942680)]                  |         |
+| 10. Evolutionary Multitasking AUC Optimization [Research Frontier]
  | CIM  | 2022 |   _Wang et al._     |    [[paper](https://ieeexplore.ieee.org/document/9756594)]                  |         |
 
 
