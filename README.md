@@ -51,6 +51,8 @@
 | 15. A Bi-objective Knowledge Transfer Framework for Evolutionary Many-Task Optimization | TEVC  | 2022 | _Jiang st al._  | [[paper](https://ieeexplore.ieee.org/abstract/document/9905754)]  |
 | 16. An Effective Knowledge Transfer Method Based on Semi-supervised Learning for Evolutionary Optimization | IS | 2022 | _Gao st al._  | [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010660)]  |
 | 17. Orthogonal Transfer for Multitask Optimization | TEVC | 2022 | _Wu st al._  | [[paper](https://ieeexplore.ieee.org/document/9737234)]  |
+| 18. Multi-Task Particle Swarm Optimization With Dynamic Neighbor and Level-Based Inter-Task Learning
+ | TETCI | 2022 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9343727)]  |
 
 
 
@@ -74,6 +76,11 @@
 | 13. A Multiform Optimization Framework for Constrained Multiobjective Optimization | TCYB | 2022 | _Jiao et al._  | [[paper](https://ieeexplore.ieee.org/document/9793373)]                  |         |
 | 14. Multiobjective Multitasking Optimization With Subspace Distribution Alignment and Decision Variable Transfer | TETCI | 2022 | _Gao et al._  | [[paper](https://ieeexplore.ieee.org/document/9582815)]                  |         |
 | 15. Adaptive Auxiliary Task Selection for Multitasking-Assisted Constrained Multi-Objective Optimization [Feature] | CIM | 2021 | _Ming et al._  | [[paper](https://ieeexplore.ieee.org/document/10102380)]                  |         |
+| 16. Multiobjective Evolutionary Multitasking With Two-Stage Adaptive Knowledge Transfer Based on Population Distribution | TSMC | 2022 | _Liang et al._  | [[paper](https://ieeexplore.ieee.org/document/9495833)]                  |         |
+| 17. Learning Task Relationships in Evolutionary Multitasking for Multiobjective Continuous Optimization
+ | TCYB | 2022 | _Chen et al._  | [[paper](https://ieeexplore.ieee.org/document/9262898)]                  |         |
+ | 18. A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm
+ | TETCI | 2023 | _Qiao et al._  | [[paper](https://ieeexplore.ieee.org/document/10032050)]                  |         |
 
 
 # Multitasking Combination Optimization
@@ -90,6 +97,7 @@
 | 8. Task Relatedness Based Multitask Genetic Programming for Dynamic Flexible Job Shop Scheduling | TEVC | 2022 | _Zhang et al._  | [[paper](https://ieeexplore.ieee.org/document/9861686)]      |
 | 9. Knowledge Transfer Genetic Programming with Auxiliary Population for Solving Uncertain Capacitated Arc Routing Problem | TEVC | 2022 | _Ardeh et al._  | [[paper](https://ieeexplore.ieee.org/document/9761253)]      |
 | 10. Multitask Multiobjective Genetic Programming for Automated Scheduling Heuristic Learning in Dynamic Flexible Job-Shop Scheduling | TCYB | 2022 | _Zhang et al._  | [[paper](https://ieeexplore.ieee.org/document/9868257)]      |
+| 11. Multitask Genetic Programming-Based Generative Hyperheuristics: A Case Study in Dynamic Scheduling | TCYB | 2022 | _Zhang et al._  | [[paper](https://ieeexplore.ieee.org/document/9382963)]      |
 
 
 
@@ -110,6 +118,7 @@
 | 1. Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems | TEVC  | 2017 | _Ding et al._ | [[paper](https://ieeexplore.ieee.org/document/8231172)] [[code](http://www.soft-computing.de/DDEO.html)] |         |
 | 2. Novel Multitask Conditional Neural-Network Surrogate Models for Expensive Optimization | TCYB  | 2020 | _Luo et al._  | [[paper](https://ieeexplore.ieee.org/document/9186363)]      |         |
 | 3. Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios | CIM   | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9321420)] [[code](http://www.soft-computing.de/DDEO.html)] |         |
+| 4. Multisurrogate-Assisted Multitasking Particle Swarm Optimization for Expensive Multimodal Problems | TCYB   | 2023 | _Ji et al._ | [[paper](https://ieeexplore.ieee.org/document/9615147)] |         |
 
 
 
@@ -137,6 +146,8 @@
 | 5. Evolutionary Multitasking Multilayer Network Reconstruction | TCYB  | 2021 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/9489377)] [[code](https://github.com/xiaofangxd/EM2MNR)] |         |
 | 6. Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | TEVC  | 2022 | _Lyu et al._ | [[paper](https://ieeexplore.ieee.org/document/9802693)] |         |
 | 7. A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks | CIM  | 2023 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/10026148)] |         |
+| 8. Enhancing the Robustness of Networks Against Multiple Damage Models Using a Multifactorial Evolutionary Algorithm
+ | TSMC  | 2023 | _Wang et al._ | [[paper](https://ieeexplore.ieee.org/document/10049190)] |         |
 
 
 
