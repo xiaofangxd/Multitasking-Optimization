@@ -51,8 +51,7 @@
 | 15. A Bi-objective Knowledge Transfer Framework for Evolutionary Many-Task Optimization | TEVC  | 2022 | _Jiang st al._  | [[paper](https://ieeexplore.ieee.org/abstract/document/9905754)]  |
 | 16. An Effective Knowledge Transfer Method Based on Semi-supervised Learning for Evolutionary Optimization | IS | 2022 | _Gao st al._  | [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010660)]  |
 | 17. Orthogonal Transfer for Multitask Optimization | TEVC | 2022 | _Wu st al._  | [[paper](https://ieeexplore.ieee.org/document/9737234)]  |
-| 18. Multi-Task Particle Swarm Optimization With Dynamic Neighbor and Level-Based Inter-Task Learning
- | TETCI | 2022 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9343727)]  |
+| 18. Multi-Task Particle Swarm Optimization With Dynamic Neighbor and Level-Based Inter-Task Learning | TETCI | 2022 | _Tang st al._  | [[paper](https://ieeexplore.ieee.org/document/9343727)]  |
 
 
 
