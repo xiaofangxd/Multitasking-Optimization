@@ -257,9 +257,9 @@ Emails: xiaofengxd@126.com
 
 Authors of scientific papers including results generated using MTEA-AD or EM2MNR are encouraged to cite the following paper:
 
-@ARTICLE{9489377,  author={Wu, Kai and Wang, Chao and Liu, Jing},  journal={IEEE Transactions on Cybernetics},   title={Evolutionary Multitasking Multilayer Network Reconstruction},   year={2021},  volume={},  number={},  pages={1-15},  doi={10.1109/TCYB.2021.3090769}}
+@ARTICLE{9489377, author={Wu, Kai and Wang, Chao and Liu, Jing}, journal={IEEE Transactions on Cybernetics}, title={Evolutionary Multitasking Multilayer Network Reconstruction}, year={2022}, volume={52}, number={12}, pages={12854-12868}, doi={10.1109/TCYB.2021.3090769}}
 
-@ARTICLE{9385398,  author={Wang, Chao and Liu, Jing and Wu, Kai and Wu, Zhaoyang},  journal={IEEE Transactions on Evolutionary Computation},   title={Solving Multi-task Optimization Problems with Adaptive Knowledge Transfer via Anomaly Detection},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/TEVC.2021.3068157}}
+@ARTICLE{9385398, author={Wang, Chao and Liu, Jing and Wu, Kai and Wu, Zhaoyang}, journal={IEEE Transactions on Evolutionary Computation}, title={Solving Multitask Optimization Problems With Adaptive Knowledge Transfer via Anomaly Detection}, year={2022}, volume={26}, number={2}, pages={304-318}, doi={10.1109/TEVC.2021.3068157}}
 
 @article{WANG2021107441,
 title = {Learning large-scale fuzzy cognitive maps using an evolutionary many-task algorithm},
