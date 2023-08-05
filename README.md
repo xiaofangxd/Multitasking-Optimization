@@ -58,7 +58,7 @@
 | 20. Ensemble of Domain Adaptation-Based Knowledge Transfer for Evolutionary Multitasking | TEVC | 2023 | _Lin st al._  | [[paper](https://ieeexplore.ieee.org/document/10076907)] |
 | 21. Ensemble Multifactorial Evolution with Biased Skill-Factor Inheritance for Many-task Optimization | TEVC | 2022 | _Binh st al._  | [[paper](https://ieeexplore.ieee.org/document/9982674)] |
 | 22. Evolutionary Many-Task Optimization Based on Multisource Knowledge Transfer | TEVC | 2022 | _Liang st al._  | [[paper](https://ieeexplore.ieee.org/document/9502920)] |
-
+| 23. Evolutionary Multitasking Optimization Enhanced by Geodesic Flow Kernel | TETCI | 2023 | _Gao st al._  | [[paper](https://ieeexplore.ieee.org/document/10198367)] |
 
 
 # Multitasking Multi-objective Optimization
