@@ -226,6 +226,7 @@
 | 12. Solution Transfer in Evolutionary Optimization: An Empirical Study on Sequential Transfer  | TEVC | 2023 | _Xue et al._  | [[paper](https://ieeexplore.ieee.org/document/10342789)]  |
 | 13. Transfer-Based Particle Swarm Optimization for Large-Scale Dynamic Optimization With Changing Variable Interactions  | TEVC | 2023 | _Liu et al._  | [[paper](https://ieeexplore.ieee.org/document/10288590)]  |
 | 14. A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments | TEVC   | 2023 | _Li et al._ | [[paper](https://ieeexplore.ieee.org/document/10225543)] |         
+| 15. First Complexity Results for Evolutionary Knowledge Transfer | FOGA   | 2023 | _Eric O Scott et al._ | [[paper](https://dl.acm.org/doi/abs/10.1145/3594805.3607137)] |    
 
 
 # Theoretical Analysis
